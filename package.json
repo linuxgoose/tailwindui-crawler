@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.6",
-    "cookie": "^0.5.0",
+    "cookie": "^0.7.0",
     "dotenv": "^8.2.0",
     "dotenv-expand": "^5.1.0",
     "form-urlencoded": "^6.0.0",
